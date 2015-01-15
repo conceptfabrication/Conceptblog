@@ -265,8 +265,8 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
-    background-image: url(../img/portfolio/plasma.jpg);
+    background-attachment: fixed;
+    background-image: url(../img/portfolio/sparks.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -863,7 +863,7 @@ body {
     webkit-tap-highlight-color: #fed136;
 }
 .portfolio {
-        background-image: url(../img/Grate.svg);
+      
 
    
 }
@@ -874,4 +874,9 @@ body {
 
 .black {
     background-image: url(../img/Overlapping%20Thread.svg);
+}
+
+.pic_height {
+    height: 188px;
+    overflow: hidden;
 }
