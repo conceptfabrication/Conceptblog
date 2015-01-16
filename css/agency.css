@@ -873,7 +873,7 @@ body {
 }
 
 .black {
-    background-image: url(../img/Overlapping%20Thread.svg);
+    background-image: url(../img/portfolio/car.jpg);
 }
 
 .pic_height {
@@ -882,5 +882,5 @@ body {
 }
 
 .img-fit {
-    width: inherit;
+    width: ;
 }
